@@ -1,4 +1,3 @@
-import * as basicLightbox from 'basiclightbox';
 import React, { Component } from 'react';
 import { Overlay, Mod } from './Modal.styled';
 import PropTypes from 'prop-types';
